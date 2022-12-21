@@ -96,6 +96,10 @@ a:hover {
   border-bottom: 2px solid #eee;
 }
 
+#resume{
+  font-size: medium;
+}
+
 /*Style for Welcome Section */
 #welcome-section {
   width: 100vw;
